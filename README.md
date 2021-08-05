@@ -4,4 +4,6 @@ some description
 aoshdiad
 
 
-# demo
+# local development
+
+1. open index
